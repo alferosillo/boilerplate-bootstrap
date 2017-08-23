@@ -1,0 +1,21 @@
+body{
+background-color: darkkhaki;
+margin: 0 auto;
+font-family: sans-serif;
+}
+h1{
+text-align: center;
+border:solid 15px darkkhaki;
+}
+
+.merlot{
+width: 120px;
+height: 120px;
+overflow: hidden;
+
+}
+.airen{
+width: 125px;
+height: 125px;
+    overflow: hidden;
+}
